@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
+<h3 align="center">A passionate python developer and having a knowledge of frontend technologies.</h3>
 
 # 💫 About Me:
 👋 I'm Abdullah Ansari<br>🔭 I’m currently working on E-Commerce Website<br>👯 I’m looking to collaborate on Python Based Projects<br>🌱 I’m currently learning React and React Native<br>💬 Ask me about Python, Data Analytics, Selenium<br>📫 How to reach me abdullah.ansari.abu@gmail.com
